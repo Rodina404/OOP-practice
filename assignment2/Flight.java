@@ -1,3 +1,4 @@
+package assignment2;
 public class Flight {
     private String flightNumber;
     private String destination;
